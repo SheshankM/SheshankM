@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SheshankM
-- 👀 I’m interested in WebDevelopment(Front End)
+- 👀 I’m interested in WebDevelopment (Front End), Machine Learning
 - 🌱 I’m currently learning ReactJS..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sheshankmanchikatla2@gmail.com
